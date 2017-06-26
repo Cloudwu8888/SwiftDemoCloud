@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import VSMobileCenterExtensions
 
 class SwiftDemo1UITests: XCTestCase {
         
@@ -29,6 +30,9 @@ class SwiftDemo1UITests: XCTestCase {
     }
     
     func testExample() {
+        
+        //More test logic...
+        MCLabel.labelStep("testExample started")
         // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
