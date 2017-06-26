@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4e8ab9a64f4d7b6fab874fff31242e53"
+build_time: [551423555, 689563000]
+inputs:
+  "/Users/bys/Documents/SwiftDemo1/SwiftDemo1/ViewController.swift": [551421719, 0]
+  "/Users/bys/Documents/SwiftDemo1/SwiftDemo1/AppDelegate.swift": [551422318, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a6dfd78b891905130f2b8705bfaf762b"
+build_time: [551423571, 309516000]
+inputs:
+  "/Users/bys/Documents/SwiftDemo1/SwiftDemo1UITests/SwiftDemo1UITests.swift": [551423319, 0]
